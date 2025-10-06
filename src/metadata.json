@@ -1,5 +1,8 @@
 {
   "name": "See Before You Eat",
   "description": "A web application that helps users visualize food items from a menu by generating realistic, high-quality images of specific dishes, leveraging real-world context for authenticity.",
+  "Auther": "Zaki Noorani",
+  "version": "0.0.1",
+  "license": "MIT",
   "requestFramePermissions": []
 }
